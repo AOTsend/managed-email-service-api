@@ -1,4 +1,4 @@
-# Best Managed Email Service API Brand
+# 2024 Best Managed Email Service API Brand - AOTsend
 
 ## What is a Managed Email API?
 A managed email API is a solution that hosts email content within the system, enabling developers to send emails more securely and efficiently. Rather than creating email content from scratch, developers can pass variables—like a 6-digit verification code—through the API and use a specific email template ID to quickly send the email.

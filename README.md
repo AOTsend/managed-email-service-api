@@ -1,0 +1,1 @@
+# managed-email-service-api
